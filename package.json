@@ -1,0 +1,13 @@
+{
+  "name": "audio-host-service",
+  "version": "1.0.0",
+  "description": "CORS-enabled audio host for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
